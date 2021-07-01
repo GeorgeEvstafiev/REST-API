@@ -1,4 +1,4 @@
-package springbootrest.model;
+package springbootrest.cinemadb.model;
 
 import javax.validation.constraints.NotNull;
 

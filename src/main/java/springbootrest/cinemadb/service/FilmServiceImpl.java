@@ -1,7 +1,7 @@
-package springbootrest.service;
+package springbootrest.cinemadb.service;
 
 import org.springframework.stereotype.Service;
-import springbootrest.model.Film;
+import springbootrest.cinemadb.model.Film;
 
 import java.util.ArrayList;
 import java.util.HashMap;

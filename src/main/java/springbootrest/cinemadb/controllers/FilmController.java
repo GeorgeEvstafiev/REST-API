@@ -1,14 +1,12 @@
-package springbootrest.controllers;
+package springbootrest.cinemadb.controllers;
 
 import org.springframework.http.HttpStatus;
-import springbootrest.model.Film;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import springbootrest.service.FilmService;
+import springbootrest.cinemadb.model.Film;
+import springbootrest.cinemadb.service.FilmService;
 
-import java.net.URI;
-import java.util.Collection;
 import java.util.List;
 
 @RestController

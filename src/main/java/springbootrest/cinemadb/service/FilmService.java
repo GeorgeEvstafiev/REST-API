@@ -1,7 +1,6 @@
-package springbootrest.service;
+package springbootrest.cinemadb.service;
 
-import springbootrest.model.Film;
-
+import springbootrest.cinemadb.model.Film;
 import java.util.List;
 
 public interface FilmService {
